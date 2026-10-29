@@ -1,0 +1,17 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
